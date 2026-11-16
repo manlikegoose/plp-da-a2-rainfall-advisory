@@ -5,7 +5,7 @@
 ## How to Run
 
 1. Install the required libraries using `pip install -r requirements.txt`.
-2. Open `rainfall_analysis.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `rainfall_analysis.ipynb` in Jupyter Notebook or (https://colab.research.google.com/drive/1hbqtbouJXpQo-Xrqu2qxRrV3ZHaw6dW2?usp=sharing) Google Colab.
 3. Run all cells from top to bottom to generate the analysis and CSV summary.
 
 ## Planting Advisory
